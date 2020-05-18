@@ -8,19 +8,27 @@ go get github.com/jeyaprabhuj/ninetyoneweb
 ```
  For sample usage check [example folder](example/)
 ## Roadmap
+
 Current status is reference implementation.
 
 **First release:**
+
 Mux based on Trie
+
 Pipeline for chaining handlers
+
 cookie support for serverside -basic encryption
+
 Session and Session manager with external storage 
 
 **Second Release:**
+
 support for '/' route path
+
 support for parameterized route path
 
 **Third Release:**
+
 TBD
 
 ## Contributing
